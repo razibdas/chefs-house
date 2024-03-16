@@ -1,0 +1,99 @@
+[
+    {
+      "recipe_image": "https://example.com/recipe1.jpg",
+      "recipe_id": 1,
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "Classic Italian pasta dish with creamy sauce and bacon.",
+      "ingredients": [
+        "350g spaghetti",
+        "150g pancetta or guanciale, diced",
+        "2 large eggs",
+        "50g Pecorino Romano cheese, grated",
+        "50g Parmesan cheese, grated",
+        "Salt and black pepper to taste"
+      ],
+      "preparing_time": "20 minutes",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_image": "https://example.com/recipe2.jpg",
+      "recipe_id": 2,
+      "recipe_name": "Chicken Alfredo",
+      "short_description": "Creamy pasta dish with tender chicken and rich Alfredo sauce.",
+      "ingredients": [
+        "300g fettuccine pasta",
+        "2 chicken breasts, diced",
+        "3 cloves garlic, minced",
+        "250ml heavy cream",
+        "100g Parmesan cheese, grated",
+        "Salt and black pepper to taste"
+      ],
+      "preparing_time": "25 minutes",
+      "calories": "550 calories"
+    },
+    {
+      "recipe_image": "https://example.com/recipe3.jpg",
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "Healthy and colorful stir-fry with a variety of fresh vegetables.",
+      "ingredients": [
+        "1 red bell pepper, sliced",
+        "1 yellow bell pepper, sliced",
+        "1 broccoli head, cut into florets",
+        "200g snow peas",
+        "150g mushrooms, sliced",
+        "3 tbsp soy sauce",
+        "2 tbsp sesame oil",
+        "1 tbsp ginger, minced"
+      ],
+      "preparing_time": "15 minutes",
+      "calories": "280 calories"
+    },
+    {
+      "recipe_image": "https://example.com/recipe4.jpg",
+      "recipe_id": 4,
+      "recipe_name": "BBQ Ribs",
+      "short_description": "Tender and juicy BBQ ribs, perfect for a summer cookout.",
+      "ingredients": [
+        "1 rack of pork ribs",
+        "250ml BBQ sauce",
+        "2 tbsp brown sugar",
+        "1 tsp paprika",
+        "1 tsp garlic powder",
+        "Salt and black pepper to taste"
+      ],
+      "preparing_time": "3 hours",
+      "calories": "680 calories"
+    },
+    {
+      "recipe_image": "https://example.com/recipe5.jpg",
+      "recipe_id": 5,
+      "recipe_name": "Cheeseburger",
+      "short_description": "Classic American cheeseburger with all the fixings.",
+      "ingredients": [
+        "200g ground beef",
+        "2 burger buns",
+        "2 slices cheddar cheese",
+        "Lettuce, tomato, onion, pickles for garnish",
+        "Ketchup and mustard for serving"
+      ],
+      "preparing_time": "20 minutes",
+      "calories": "520 calories"
+    },
+    {
+      "recipe_image": "https://example.com/recipe6.jpg",
+      "recipe_id": 6,
+      "recipe_name": "Caesar Salad",
+      "short_description": "Fresh and crisp Caesar salad with homemade dressing.",
+      "ingredients": [
+        "1 head romaine lettuce, chopped",
+        "1/2 cup Caesar dressing",
+        "1/4 cup grated Parmesan cheese",
+        "1 cup croutons",
+        "Salt and black pepper to taste"
+      ],
+      "preparing_time": "10 minutes",
+      "calories": "320 calories"
+    }
+  ]
+  
