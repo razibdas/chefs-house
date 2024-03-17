@@ -1,6 +1,6 @@
 [
     {
-      "recipe_image": "https://example.com/recipe1.jpg",
+      "recipe_image": "https://i.ibb.co/7js03DN/lily-banse-YHSwy6uqvk-unsplash.jpg",
       "recipe_id": 1,
       "recipe_name": "Spaghetti Carbonara",
       "short_description": "Classic Italian pasta dish with creamy sauce and bacon.",
@@ -16,7 +16,7 @@
       "calories": "450 calories"
     },
     {
-      "recipe_image": "https://example.com/recipe2.jpg",
+      "recipe_image": "https://i.ibb.co/pz9fLYK/anh-nguyen-kc-A-c3f-3-FE-unsplash.jpg",
       "recipe_id": 2,
       "recipe_name": "Chicken Alfredo",
       "short_description": "Creamy pasta dish with tender chicken and rich Alfredo sauce.",
@@ -32,7 +32,7 @@
       "calories": "550 calories"
     },
     {
-      "recipe_image": "https://example.com/recipe3.jpg",
+      "recipe_image": "https://i.ibb.co/QHvDV0D/image.png",
       "recipe_id": 3,
       "recipe_name": "Vegetable Stir-Fry",
       "short_description": "Healthy and colorful stir-fry with a variety of fresh vegetables.",
@@ -50,7 +50,7 @@
       "calories": "280 calories"
     },
     {
-      "recipe_image": "https://example.com/recipe4.jpg",
+      "recipe_image": "https://i.ibb.co/w6jJZmR/image.png",
       "recipe_id": 4,
       "recipe_name": "BBQ Ribs",
       "short_description": "Tender and juicy BBQ ribs, perfect for a summer cookout.",
@@ -66,7 +66,7 @@
       "calories": "680 calories"
     },
     {
-      "recipe_image": "https://example.com/recipe5.jpg",
+      "recipe_image": "https://i.ibb.co/z42QmVR/image.png",
       "recipe_id": 5,
       "recipe_name": "Cheeseburger",
       "short_description": "Classic American cheeseburger with all the fixings.",
@@ -81,7 +81,7 @@
       "calories": "520 calories"
     },
     {
-      "recipe_image": "https://example.com/recipe6.jpg",
+      "recipe_image": "https://i.ibb.co/4tzKgwR/image.png",
       "recipe_id": 6,
       "recipe_name": "Caesar Salad",
       "short_description": "Fresh and crisp Caesar salad with homemade dressing.",
@@ -94,6 +94,7 @@
       ],
       "preparing_time": "10 minutes",
       "calories": "320 calories"
+      
     }
   ]
   
