@@ -1,6 +1,20 @@
+import { useEffect, useState } from "react";
 
 
 const RecipeCard = () => {
+
+    const [recipe, setRecipe] = useState([])
+
+    console.log(recipe);
+    
+    useEffect (() => {
+        fetch('blog.json')
+        .then(res => res.json())
+        .then(data => {
+           setRecipe(data)
+        })
+    }, [])
+    
     return (
         <div className="flex mx-auto gap-6 justify-center mt-16">
             <div className="card w-96 bg-base-100 shadow-xl">
@@ -13,16 +27,7 @@ const RecipeCard = () => {
                     </div>
                 </div>
             </div>
-            <div className="card w-96 bg-base-100 shadow-xl">
-                <figure><img src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" /></figure>
-                <div className="card-body">
-                    <h2 className="card-title">Shoes!</h2>
-                    <p>If a dog chews shoes whose shoes does he choose?</p>
-                    <div className="card-actions justify-end">
-                        <button className="btn btn-primary">Buy Now</button>
-                    </div>
-                </div>
-            </div>
+            
             <div className="shadow-2xl px-32 border">
                 <h1 className="text-xl pt-2">Want to Cook:</h1>
                 <p className="divider w-32"></p>
