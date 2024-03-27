@@ -2,6 +2,7 @@
 import Navbar from '../Navbar/Navbar';
 import './style.css'
 
+
 const Banner = () => {
     return (
         <div>
