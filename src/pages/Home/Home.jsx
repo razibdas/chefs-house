@@ -6,7 +6,7 @@ import RecipeCard from "../RecipeCard/RecipeCard";
 
 const Home = () => {
     return (
-        <div>
+        <div >
             <Banner></Banner>
             <OurRecipe></OurRecipe>
             <RecipeCard></RecipeCard>
